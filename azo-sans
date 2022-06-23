@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansRegular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: normal;
+    font-weight: 250;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansThin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: italic;
+    font-weight: 250;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansThinItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansLight.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansLightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansMedium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansMediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansBlack.woff') format('woff');
+}
+@font-face {
+    font-family: 'Azo Sans';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Azo Sans'), url('https://fonts.cdnfonts.com/s/28736/AzoSansBlackItalic.woff') format('woff');
+}
+
+
