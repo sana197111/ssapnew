@@ -102,6 +102,10 @@
     }
 }
 
+.jfaWMi{
+    background-image: url('./Junction Asia 2022_files/sparkplus.png');
+}
+
 .Toastify__toast {
     position: relative;
     min-height: var(--toastify-toast-min-height);
